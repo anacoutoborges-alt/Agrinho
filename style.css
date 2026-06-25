@@ -1,14 +1,37 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
 
 }
 
-header{
-    background-color : rgb(2, 0, 100);
-    color: white;
+
+header {
+    background-color: rgb(4, 88, 42);
+    text-align: center;
+    color: rgb(17, 17, 17);
 }
 
-header{
-         height: 34px;
-   }
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+footer {
+    background-color: rgb(1, 85, 26);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position: fixed;
+    width: 100%;
+}
+
+
+
+
+main{
+    background-color: rgb(252, 234, 132);
+    width: 70%;
+    display: block;
+
+
+}
